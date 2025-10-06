@@ -1,0 +1,1 @@
+export default function Merch(){return(<main className='container' style={{padding:'32px 16px'}}><h1>Official Collector</h1><p>Merch drops are in the works. Follow @jorytattoo for dates.</p></main>)}

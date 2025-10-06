@@ -1,0 +1,1 @@
+export default function Designs(){return(<main className='container' style={{padding:'32px 16px'}}><h1>Available Designs</h1><p>Each design is created with its own story and visual rhythm. When you claim a design with a deposit, <b>I will</b> shape it to your body and refine details so it becomes distinctly yours.</p><p>Designs will be listed here soon.</p></main>)}
